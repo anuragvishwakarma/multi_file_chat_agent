@@ -1,0 +1,12 @@
+streamlit
+pandas
+openpyxl
+langchain
+openai
+python-dotenv
+fpdf
+matplotlib
+langchain-community
+langchain_experimental
+tabulate
+langchain-openai
